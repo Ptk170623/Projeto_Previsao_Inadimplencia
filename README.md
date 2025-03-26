@@ -1,6 +1,6 @@
 # Projeto_Previsao_Inadimplencia
 
-Neste projeto, usei Machine Learning para prever a inadimplência em empréstimos de uma empresa, contribuindo para a tomada de decisão.
+Neste projeto, usei Machine Learning para prever a inadimplência em empréstimos de uma empresa, contribuindo para a tomada de decisão. Os insights deste projeto e uma explicação não técnica estão disponível no meu blog técnico: https://medium.com/@patricksilvalessa5
 
 ## **Processo do Projeto:**
 ### Análise Exploratória:
