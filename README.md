@@ -29,9 +29,9 @@ Após a comparação de todos os modelos e a análise de suas métricas de desem
 
 ### Implementação:
 
-O modelo foi implementado em uma API que recebe um arquivo com as informações dos clientes e retorna o arquivo com uma nova coluna "Risco" que indica se o cliente possui baixo, médio, alto ou muito alto risco de inadimplência.
+O modelo foi implementado em uma API que recebe um arquivo com as informações dos clientes e retorna o arquivo com uma nova coluna "Risco" que indica se o cliente possui baixo, médio, alto ou muito alto risco de inadimplência. Para usar a API leia o README da pasta notebooks/API
 
-#### Conclusão
+### Conclusão
 
 Com essa informação preditiva, diversas abordagens podem ser seguidas para a tomada de decisão. Por exemplo, a empresa pode criar estratégias de cobrança antecipada para clientes com alto risco de inadimplência, ajustar as condições de empréstimo e também diminuir o limite de crédito desses clientes.
 
