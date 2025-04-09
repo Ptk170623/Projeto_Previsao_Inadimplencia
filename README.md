@@ -27,4 +27,12 @@ A matriz de confusão foi usada para analisar o desempenho dos modelos e identif
 
 Após a comparação de todos os modelos e a análise de suas métricas de desempenho, foi escolhido o modelo mais eficaz para a previsão de inadimplência.
 
-Este projeto mostra a aplicação prática de técnicas de Machine Learning, análise de dados e modelagem estatística para resolver problemas de negócios, como a previsão de inadimplência.
+### Implementação:
+
+O modelo foi implementado em uma API que recebe um arquivo com as informações dos clientes e retorna o arquivo com uma nova coluna "Risco" que indica se o cliente possui baixo, médio, alto ou muito alto risco de inadimplência.
+
+#### Conclusão
+
+Com essa informação preditiva, diversas abordagens podem ser seguidas para a tomada de decisão. Por exemplo, a empresa pode criar estratégias de cobrança antecipada para clientes com alto risco de inadimplência, ajustar as condições de empréstimo e também diminuir o limite de crédito desses clientes.
+
+Com a aplicação deste projeto, um problema que gera grandes prejuízos para as empresas da área financeira é resolvido por meio da implementação de um modelo de classificação, capaz de prever o risco de inadimplência de um cliente, permitindo que a empresa tome decisões informadas e use estratégias eficazes para redução de riscos, maior segurança e rentabilidade.
