@@ -1,7 +1,7 @@
 Esta aplicação fornece uma API construída com FastAPI para prever o risco de inadimplência de clientes com base em uma planilha de dados dos clientes. O modelo de Machine Learning utilizado pode ser o padrão ou customizado, assim como o conjunto de variáveis (features).
 
 ## Estrutura do arquivo:
-API/ 
+- API/ 
 - app.py # Arquivo com os códigos utilizando a biblioteca FastAPI
 - funcoes.py # Funções de pré-processamento e predição criadas para implementar o modelo
 - modelo_inadimplencia.pkl # Modelo de ML padrão (XGBoost)
@@ -14,13 +14,13 @@ API/
 
 ## Como Rodar a API Localmente
 1. Clone o repositório e entre na pasta da API:
-git clone https://github.com/Ptk170623/Projeto_Previsao_Inadimplencia.git
-cd Projeto_Previsao_Inadimplencia/notebooks/API
+- git clone https://github.com/Ptk170623/Projeto_Previsao_Inadimplencia.git
+- cd Projeto_Previsao_Inadimplencia/notebooks/API
 
 2. (Recomendado) Crie e ative um ambiente virtual:
 python -m venv venv
 venv\Scripts\activate   # No Windows
-# ou
+#### ou
 source venv/bin/activate  # No Linux/macOS
 
 3. Instale as dependências:
